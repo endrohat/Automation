@@ -10,5 +10,9 @@ https://www.javatpoint.com/how-to-install-maven
 
 ## Running test cases
 After downloading the project, go to command prompt or terminal and CD to project root folder automation
-after that tun the command "mvn test" to start all the test cases, refer the following documentation if stuck
+after that tun the command 
+```
+mvn test
+```
+to start all the test cases, refer the following documentation if stuck
 https://qaautomation.expert/2021/03/26/run-cucumber-test-from-command-line/
